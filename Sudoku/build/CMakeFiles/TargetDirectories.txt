@@ -1,0 +1,3 @@
+C:/Users/WIN 11/OneDrive/Desktop/Edges Sw Dev_2/sodu/Edges Project/build/CMakeFiles/Edges_Project.dir
+C:/Users/WIN 11/OneDrive/Desktop/Edges Sw Dev_2/sodu/Edges Project/build/CMakeFiles/edit_cache.dir
+C:/Users/WIN 11/OneDrive/Desktop/Edges Sw Dev_2/sodu/Edges Project/build/CMakeFiles/rebuild_cache.dir

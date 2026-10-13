@@ -1,0 +1,42 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/WIN 11/OneDrive/Desktop/Edges Sw Dev_2/sodu/Edges Project/build",
+	"dir-cur-src" : "C:/Users/WIN 11/OneDrive/Desktop/Edges Sw Dev_2/sodu/Edges Project",
+	"dir-top-bld" : "C:/Users/WIN 11/OneDrive/Desktop/Edges Sw Dev_2/sodu/Edges Project/build",
+	"dir-top-src" : "C:/Users/WIN 11/OneDrive/Desktop/Edges Sw Dev_2/sodu/Edges Project",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/WIN 11/OneDrive/Desktop/Edges Sw Dev_2/sodu/Edges Project/build/CMakeFiles/Edges_Project.dir",
+	"sources" : 
+	{
+		"CMakeFiles/Edges_Project.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/WIN 11/OneDrive/Desktop/Edges Sw Dev_2/sodu/Edges Project/main.cpp"
+		},
+		"CMakeFiles/Edges_Project.dir/sudokuBoard.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/WIN 11/OneDrive/Desktop/Edges Sw Dev_2/sodu/Edges Project/sudokuBoard.cpp"
+		},
+		"CMakeFiles/Edges_Project.dir/sudokuGame.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/WIN 11/OneDrive/Desktop/Edges Sw Dev_2/sodu/Edges Project/sudokuGame.cpp"
+		},
+		"CMakeFiles/Edges_Project.dir/sudokuSolver.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/WIN 11/OneDrive/Desktop/Edges Sw Dev_2/sodu/Edges Project/sudokuSolver.cpp"
+		}
+	}
+}

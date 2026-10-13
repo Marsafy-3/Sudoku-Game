@@ -1,0 +1,9 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/Edges_Project.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/Edges_Project.dir/sudokuBoard.cpp.obj: dyndep
+
+build CMakeFiles/Edges_Project.dir/sudokuSolver.cpp.obj: dyndep
+
+build CMakeFiles/Edges_Project.dir/sudokuGame.cpp.obj: dyndep
+
